@@ -1,5 +1,7 @@
 # Hi, I'm Ahmad Houraniah! 👋
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=AhmadHouraniah)
+
 ## 👨‍💻 Digital Design Engineer | PhD Candidate
 
 I'm a **Digital Design Engineer** and **PhD Candidate** specializing in the high-performance implementation of digital systems. My core expertise is at the intersection of **computer architecture** and **hardware design**, focusing on creating efficient solutions for both **ASIC** and **FPGA** platforms.
